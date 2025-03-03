@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hourly-calculator/static/css/main.8a64520e.css",
+    "main.js": "/hourly-calculator/static/js/main.53ce50ea.js",
+    "static/js/453.cf7ae392.chunk.js": "/hourly-calculator/static/js/453.cf7ae392.chunk.js",
+    "index.html": "/hourly-calculator/index.html",
+    "main.8a64520e.css.map": "/hourly-calculator/static/css/main.8a64520e.css.map",
+    "main.53ce50ea.js.map": "/hourly-calculator/static/js/main.53ce50ea.js.map",
+    "453.cf7ae392.chunk.js.map": "/hourly-calculator/static/js/453.cf7ae392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a64520e.css",
+    "static/js/main.53ce50ea.js"
+  ]
+}
